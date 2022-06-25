@@ -1,5 +1,6 @@
 # AI-Pet
-![Robot](https://drive.google.com/uc?export=view&id=1gT0MIZGq5tGOiT5hIR3hMeLw0sXvBWfd)
+![Robot](https://drive.google.com/uc?export=view&id=1n4I0NMBX2IT7LpdmXg37f-z0kLxpM8TE)
+
 The primary objective of this project is to make an AI based pet that can interact seamlessly with humans and react based on the inputs it receives from its array of sensors and cameras. We aim to make this pet a smart robot with multiple functions and capabilities to keep its human companion engaged.
 
 # Working
@@ -19,6 +20,22 @@ Following is the Architecture Diagram
 4) Can follow a person wearing Fluorescent Yellow sneakers
 5) Play stone paper sissors
 6) Can play music and dance
+
+# Demos
+You can view the full demo and explanation at https://www.youtube.com/watch?v=lxDzJWlctn4
+
+Follow function
+
+![Follow user Demo](demo/follow.gif)
+
+Follow function from the POV of the robot
+
+![Follow user Demo](demo/follow bot view.gif)
+
+Face Tracking function
+
+![face track Demo](demo/face track.gif)
+
 
 # Note
 You dont need a pi cam necessarily, you can use any Ip Camera
