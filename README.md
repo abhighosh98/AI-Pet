@@ -42,7 +42,7 @@ You dont need a pi cam necessarily, you can use any Ip Camera
 
 # Hardware Used
 1) Raspberry Pi 4
-2) Remote server (any computer capable or running ML Algos)
+2) Remote server (any computer capable of running ML Algos)
 3) Arduino boards and assorted modules
 4) IP camera: can be a mobile phone cam or even a Pi cam
 
