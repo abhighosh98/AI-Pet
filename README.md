@@ -30,11 +30,11 @@ Follow function
 
 Follow function from the POV of the robot
 
-![Follow user Demo](demo/follow bot view.gif)
+![Follow user Demo](demo/follow_bot_view.gif)
 
 Face Tracking function
 
-![face track Demo](demo/face track.gif)
+![face track Demo](demo/face_track.gif)
 
 
 # Note
